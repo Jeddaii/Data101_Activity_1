@@ -18,16 +18,3 @@ Illustrates the periodic behavior of the sine function.
 
 ## COVID-19 Active Cases
 A line or bar graph showing the progression of active COVID-19 cases over a specified period.
-
-# Instructions
-1. Open the notebook and run the cells sequentially.
-2. Ensure the required libraries (e.g., `matplotlib`, `pandas`) are installed.
-3. Replace the COVID-19 dataset path if using a local file.
-
-# Key Features
-- **Customization**: Modify the style, labels, and datasets as needed.
-- **Accessibility**: Easy-to-follow structure for beginners in data visualization.
-
-# License
-Feel free to use and adapt this notebook for educational purposes.
-
